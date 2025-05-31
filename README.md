@@ -1,6 +1,9 @@
-# Lucia Auth Template
+# Lucia Auth Project
 
-This repository provides a ready-to-use template for authentication using [Lucia](https://lucia-auth.com).
+This repository works on an authentication syste, using [Lucia](https://lucia-auth.com).
+This is made for the IEEE COMSOC Submission:
+reg no: 23BAI1326
+Name: Jefrey Jose D
 
 ## Features
 
